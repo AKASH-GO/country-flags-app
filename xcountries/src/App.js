@@ -18,7 +18,7 @@ function App() {
   if (data.length)
     return (
       <div>
-        <h2 style={{padding:"1rem",textAlign:"center"}}>Country Flags</h2>
+        <h2 style={{ padding: "1rem", textAlign: "center" }}>Country Flags</h2>
         <div
           style={{
             display: "flex",
